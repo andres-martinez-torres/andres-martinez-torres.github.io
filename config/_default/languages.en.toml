@@ -1,0 +1,24 @@
+locale = "en"
+label = "English"
+direction = "ltr"
+weight = 1
+
+title = "Andrés Martinez Torres"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  # description = "My personal website"
+
+[params.author]
+   name = "Andrés Martínez Torres"
+   image = "img/author.jpeg"
+   headline = "Computational Social Sciences Researcher"
+   # bio = "A little bit about you"
+   links = [
+     { email = "mailto:a.martinez-torres@pm.me" },
+     { github = "https://github.com/andres-martinez-torres" },
+     { orcid = "https://orcid.org/0009-0004-7690-5225" },
+   ]

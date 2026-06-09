@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on Andrés Martinez Torres</title>
-		<link>/fr/categories/</link>
+		<link>https://github.com/andres-martinez-torres/andres-martinez-torres.github.io/fr/categories/</link>
 		<description>Recent content in Categories on Andrés Martinez Torres</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://github.com/andres-martinez-torres/andres-martinez-torres.github.io/fr/categories/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

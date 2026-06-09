@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: /sitemap.xml
+Sitemap: https://github.com/andres-martinez-torres/andres-martinez-torres.github.io/sitemap.xml

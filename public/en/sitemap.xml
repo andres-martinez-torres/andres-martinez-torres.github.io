@@ -4,34 +4,34 @@
   
     
       <url>
-            <loc>//localhost:1313/en/about-me/</loc>
+            <loc>/en/about-me/</loc>
             <lastmod>2026-06-09T08:57:01+02:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="fr"
-              href="//localhost:1313/fr/about-me/"
+              href="/fr/about-me/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="//localhost:1313/en/about-me/"
+              href="/en/about-me/"
               />
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/en/</loc>
+            <loc>/en/</loc>
             <lastmod>2026-06-09T08:30:14+02:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="fr"
-              href="//localhost:1313/fr/"
+              href="/fr/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="//localhost:1313/en/"
+              href="/en/"
               />
           </url>
     
@@ -40,16 +40,16 @@
   
     
       <url>
-            <loc>//localhost:1313/en/research/</loc>
+            <loc>/en/research/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="fr"
-              href="//localhost:1313/fr/research/"
+              href="/fr/research/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="//localhost:1313/en/research/"
+              href="/en/research/"
               />
           </url>
     
